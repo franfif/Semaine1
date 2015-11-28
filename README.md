@@ -19,4 +19,5 @@ Je suis maintenant en charge de piloter le développement et le déploiement d'u
 
 Mes motivations pour effectuer cette formation sont à la fois professionnelles et personnelles :  
 1. Mieux m'investir dans mon travail et gérer mes projets ;
+
 2. Mieux connaître et comprendre ce monde qui se développe
