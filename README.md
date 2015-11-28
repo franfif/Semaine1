@@ -18,5 +18,5 @@ J'ai commencé ma carrière par de l'apprentissage en ligne dans une startup. Po
 Je suis maintenant en charge de piloter le développement et le déploiement d'une plateforme d'apprentissage et d'un outil-auteur.
 
 Mes motivations pour effectuer cette formation sont à la fois professionnelles et personnelles :  
-1. Mieux m'investir dans mon travail et gérer mes projets 
+1. Mieux m'investir dans mon travail et gérer mes projets ;
 2. Mieux connaître et comprendre ce monde qui se développe
